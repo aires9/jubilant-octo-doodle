@@ -28,3 +28,7 @@
 ## Contact
 - Email: guitaires@email.com
 - Instagram: guitaires
+
+- ## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aires9)

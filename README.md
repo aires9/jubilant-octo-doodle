@@ -1,4 +1,4 @@
-# Hi 👋, I'm Khoon
+# Hi 👋, I'm Guitaires
 🎸 Music educator | 🎹 Piano & Guitar teacher | 🎶 Band coach
 
 ---
